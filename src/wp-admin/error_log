@@ -1,0 +1,17 @@
+[19-Sep-2016 10:27:29 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/cagjournaladmin/public_html/wp-includes/load.php on line 317
+[19-Sep-2016 10:34:23 UTC] PHP Warning:  file_get_contents(/home/cagjournaladmin/public_html/wp-content/rsspi-log/log.txt): failed to open stream: No such file or directory in /home/cagjournaladmin/public_html/wp-content/plugins/rss-post-importer/app/classes/helpers/class-rss-pi-log.php on line 26
+[21-Oct-2016 20:01:13 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:01:21 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:01:22 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:02:33 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:02:45 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:08:59 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:09:00 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 859
+[21-Oct-2016 20:09:38 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:39 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:39 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:40 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:40 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:40 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:41 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
+[21-Oct-2016 20:09:41 UTC] PHP Parse error:  syntax error, unexpected 'yes' (T_STRING) in /home/cagjournaladmin/public_html/wp-content/themes/the-journal/theme-includes/helpers.php on line 848
